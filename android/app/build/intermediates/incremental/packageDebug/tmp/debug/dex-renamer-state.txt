@@ -1,0 +1,4 @@
+#Wed Oct 14 19:24:15 EAT 2020
+base.0=/media/irynah/DATA/0NEW-108G/0PROJECTS/FARMMANAGER-APPS/farm-manager-frontend/android/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
